@@ -1,3 +1,53 @@
 <ht4> Script-gen.AI</h4>
 <h2>AI Script Generator</h2>
-  <p>We provide a service that generates somputer code from a prompt</p>
+  <p>We provide a service that generates computer code from a prompt</p>
+Script-gen.AI
+Interactive Linux Distribution Engineering, Scripting & Educational Platform
+
+Script-gen.AI is a highly specialized, interactive engineering dashboard designed for Linux systems administration, script generation, and core architectural learning. Rather than treating Linux as a generic target, the platform isolates specific distributions down to their native package managers, init systems, and shell environments.
+
+It functions simultaneously as an automation tool and an educational simulator, helping users understand why code changes across environments while providing safe execution previews.
+🛠 Platform Matrix & Features
+
+The interface is structured into four distinct focus modules, driving precision from high-level system logic down to bare-metal compilation:
+1. Dedicated Linux Distribution Selection
+
+    Distro-Specific Tuning: Tailor output logic explicitly for target environments like Ubuntu, Fedora, Arch, Debian, or enterprise flavors.
+
+    Environment Matching: Automatically swaps package management syntax (e.g., apt, dnf, pacman), repository configurations, and directory structures based on the selected distribution.
+
+2. Multi-Language Code Compilation
+
+    Select the native execution or scripting language best suited for the administration task:
+
+        Shell Scripting: Bash, SH, Zsh templates optimized for compliance.
+
+        System Languages: C Source infrastructure modules, Python automation scripts, or web utility frameworks.
+
+3. Comprehensive File Layer Matrix
+
+    Systemd Integration: Generate, analyze, and troubleshoot custom .service unit files for background process orchestration.
+
+    Network Infrastructure: Build structured Nginx configurations, reverse proxy maps, and upstream load-balancing pools.
+
+    Automation Automation: Compile raw configurations, deployment manifests, and automation directory trees.
+
+4. Interactive Learning & Feedback Engine
+
+    Educational Code Explanations: Real-time analysis breakdowns of the generated code strings to teach system commands, permissions, and security practices.
+
+    Terminal UI Simulation: A built-in console environment that streams real-time logs, compilation statuses, and dry-run outputs.
+
+    Resource Optimization Toggles: Settings to configure logging levels, error trapping routines, and performance throttling to observe how changes impact execution.
+
+🗄 Backend Architecture (Supabase Integration)
+
+The application utilizes Supabase to back its states and data security layer:
+
+    Session & Progress Tracking: Saves user configurations, custom distro combinations, and educational history modules securely.
+
+    Data Sovereignty & Encryption: Mapped entirely via secure database instances utilizing AES-256 encryption. All subprocessor endpoints strictly process data under isolated user parameter scopes to keep your proprietary architectures and custom scripts completely private.
+
+🚀 Getting Started (Local Development Deployment)
+
+To run Script-gen.AI entirely offline—bypassing cloud constraints, rate limits, and corporate censorship layers—deploy the package locally.
